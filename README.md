@@ -3,19 +3,19 @@ CodeWave: 汇集开发者线下技术会议的导航，链接你与技术界的�
 
 ## 技术会议主页
 ### 国内
-- [GIAC全球互联网架构大会](http://www.thegiac.com/index.php) - 集中探讨互联网架构的发展趋势，邀请业内顶尖的架构师分享他们的经验和见解。
-- [QCon全球软件开发大会](https://qcon.infoq.cn/) - 聚焦软件开发的最新趋势和技术，旨在为软件开发者提供一个学习和交流的平台。
-- [D2 终端技术大会](https://d2.alibabatech.com/) - 由阿里巴巴主办，专注于前端及移动开发领域的技术创新和实践交流。
-- [稀土开发者大会](https://conf.juejin.cn/) - 面向广大开发者，分享最前沿的技术动态和开发经验。
-- [GMTC全球大前端技术大会](https://gmtc.infoq.cn/) - 聚焦大前端领域的最新技术和应用实践，旨在推动前端技术的创新和发展。
-- [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/) - 针对软件架构领域，邀请知名架构师分享架构设计的最佳实践和经验。
-- [前端早早聊大会](https://www.zaozao.run/) - 一个面向前端社区的分享和交流平台，旨在促进前端技术和经验的分享。
-- [VueConf](https://node.fequan.com/) - 面向Vue.js社区的开发者和爱好者，分享Vue.js的最新进展和应用案例。
-- [CssConf](http://cssconf.org/) - 集中探讨CSS相关的技术、工具和最佳实践，旨在推动CSS技术的发展。
-- [Web前沿技术论坛](https://www.w3.org/2023/06/china-web-forum/) - 由W3C主办，探讨Web技术的最新标准和发展趋势。
-- [中国软件研发管理行业技术峰会](http://www.csdisummit.com/) - 聚焦软件研发管理领域，分享管理实践和创新方法。
-- [中国DevOps社区](https://DevOpsChina.org), [近期活动](https://www.hdb.com/u/bqaf3u.html) - 专注于DevOps文化和实践的推广，组织相关的活动和交流。
-- [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html) - 面向Elasticsearch用户和开发者的交流活动，分享使用经验和最佳实践。
+* [GIAC全球互联网架构大会](http://www.thegiac.com/index.php) - 集中探讨互联网架构的发展趋势，邀请业内顶尖的架构师分享他们的经验和见解。
+* [QCon全球软件开发大会](https://qcon.infoq.cn/) - 聚焦软件开发的最新趋势和技术，旨在为软件开发者提供一个学习和交流的平台。
+* [D2 终端技术大会](https://d2.alibabatech.com/) - 由阿里巴巴主办，专注于前端及移动开发领域的技术创新和实践交流。
+* [稀土开发者大会](https://conf.juejin.cn/) - 面向广大开发者，分享最前沿的技术动态和开发经验。
+* [GMTC全球大前端技术大会](https://gmtc.infoq.cn/) - 聚焦大前端领域的最新技术和应用实践，旨在推动前端技术的创新和发展。
+* [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/) - 针对软件架构领域，邀请知名架构师分享架构设计的最佳实践和经验。
+* [前端早早聊大会](https://www.zaozao.run/) - 一个面向前端社区的分享和交流平台，旨在促进前端技术和经验的分享。
+* [VueConf](https://node.fequan.com/) - 面向Vue.js社区的开发者和爱好者，分享Vue.js的最新进展和应用案例。
+* [CssConf](http://cssconf.org/) - 集中探讨CSS相关的技术、工具和最佳实践，旨在推动CSS技术的发展。
+* [Web前沿技术论坛](https://www.w3.org/2023/06/china-web-forum/) - 由W3C主办，探讨Web技术的最新标准和发展趋势。
+* [中国软件研发管理行业技术峰会](http://www.csdisummit.com/) - 聚焦软件研发管理领域，分享管理实践和创新方法。
+* [中国DevOps社区](https://DevOpsChina.org), [近期活动](https://www.hdb.com/u/bqaf3u.html) - 专注于DevOps文化和实践的推广，组织相关的活动和交流。
+* [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html) - 面向Elasticsearch用户和开发者的交流活动，分享使用经验和最佳实践。
 * [JS World](https://jsworldconference.com/) - 世界上最大的 JavaScript 会议，涵盖 JavaScript 的各个方面，邀请业界知名公司和组织的演讲嘉宾，提供技术更新和案例研究。最近一次举办于 2024.2.28。
 * [VueJS Amsterdam](https://vuejs.amsterdam/) - 规模最大的 Vue 会议，汇集全球参与者，与 Vue 创作者和维护者互动，建立联系并获得终生难忘的体验。最近一次举办于 2024.2.28。
 * [VueConf US](https://us.vuejs.org/) - Vue.js 社区组织的年度会议，由 Vue.js 创建者和核心团队主持，聚集全球 Vue.js 开发者和爱好者，分享最新技术和经验。最近一次举办于 2023.5.24。
