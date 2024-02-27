@@ -41,8 +41,6 @@ CodeWave: 汇集开发者线下技术会议的导航，链接你与技术界的�
 * [DOIS 2019运维开发国际峰会](https://www.bagevent.com/event/2414051) - 探讨运维与开发的融合，促进DevOps文化和实践的发展。
 * [GTLC全球技术领导力大会](https://gtlc.infoq.cn/2021/shanghai) - 聚焦技术领导力的培养和发展，为技术领导者提供交流和学习的平台。
 
-### 国际
-* [Laracon](https://laracon.net/)
 
 ## 活动发布平台
 * [hopin](https://hopin.com/explore)
@@ -57,6 +55,7 @@ CodeWave: 汇集开发者线下技术会议的导航，链接你与技术界的�
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
 * [友付活动票务](https://yoopay.cn/collect/search/event)
+  
 ## 组织
 * [Linux基金会](https://linuxfoundation.cn/)
 * [云原生软件基金会 CNCF ](https://www.cncf.io/)
